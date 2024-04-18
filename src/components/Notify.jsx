@@ -2,7 +2,7 @@ import React from "react";
 
 const Notify = () => {
   return (
-    <section className="parentPaddingAndWidth  bg-[#FBBC12] relative border border-red-400">
+    <section className="parentPaddingAndWidth  bg-[#FBBC12] relative">
       <img src="/assets/backgrounds/yellow.png" className=" absolute top-0 w-full object-cover  h-[100vh] left-0 " alt="" />
       <div className=" bg-white flex flex-col-reverse  md:flex-row items-center  relative  rounded-3xl    border border-red-300">
         <div className="  w-full md:w-1/2  flex items-center  p-7    md:p-20 ">

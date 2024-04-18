@@ -2,8 +2,8 @@ import React from "react";
 
 const Notify = () => {
   return (
-    <section className="parentPaddingAndWidth  bg-[#9F73C2] relative">
-      <img src="/assets/backgrounds/purple.png" className=" absolute  w-full  md:h-[100vh] object-cover  inset-0   " alt="" />
+    <section className="parentPaddingAndWidth  bg-[#9F73C2] relative overflow-hidden">
+      <img src="/assets/backgrounds/purple.png" className=" absolute  w-full   object-cover  inset-0   " alt="" />
 
       <div className=" bg-white flex flex-col  md:flex-row  justify-between  relative  rounded-3xl    ">
         <div className=" ParentDiv  ">
