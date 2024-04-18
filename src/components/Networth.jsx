@@ -27,11 +27,9 @@ const Accounts = () => {
           <div className="  w-full md:w-1/2  flex items-center justify-center    ">
             <p className="para  text-center md:text-left md:max-w-[70%] ">
               {" "}
-              <strong >
-                Connect your brokerage accounts
-              </strong>{" "}
-              and get access to trading ideas, aggregated stats and discussions
-              in your tech investing community right away.
+              <strong>Track your net worth</strong> automatically and spend less
+              time managing your personal finances. No need to update
+              spreadsheets manually anymore.
             </p>
           </div>
         </div>
