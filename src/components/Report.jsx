@@ -43,7 +43,7 @@ const Notify = () => {
         <div className="  w-full md:w-1/2  flex items-center  justify-center  p-7    md:p-20 ">
           <p className="para  text-center md:text-left md:max-w-[70%] ">
             {" "}
-            <strong className="  text-[18px] md:text-[21px]">
+            <strong >
             Receive personalized investor reports
             </strong>{" "}
              and understand how your trading activities contribute to your overall wealth.

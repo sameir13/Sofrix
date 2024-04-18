@@ -8,7 +8,7 @@ const Notify = () => {
         <div className="  w-full md:w-1/2  flex items-center  p-7    md:p-20 ">
           <p className="para  text-center md:text-left md:max-w-[70%] ">
             {" "}
-            <strong className="  text-[18px] md:text-[21px]">
+            <strong >
               Automate monitoring
             </strong>{" "}
             of your trading accounts 24/7. Control your risks and manage your

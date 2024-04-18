@@ -16,12 +16,12 @@ const SignUp = () => {
         <div className=" bg-white flex py-2  w-full md:w-[70%]  rounded-3xl ">
           <div className=" flex items-center relative">
             <img
-              src="./assets/Person/Person 2.png"
+              src="./assets/Person/person 2.png"
               className=" -translate-x-20"
               alt=""
             />
             <img
-              src="./assets/Person/Person 1.png"
+              src="./assets/Person/person 1.png"
               className="-translate-x-20"
               alt=""
             />
@@ -30,7 +30,7 @@ const SignUp = () => {
           <div className="  w-full md:w-1/2  flex items-center justify-center    ">
             <p className="para  text-center md:text-left md:max-w-[90%] ">
               {" "}
-              <strong className=" text-[18px] md:text-[21px]">
+              <strong >
                 Sign up today
               </strong>{" "}
               and manage your portfolio like a pro with personalized assistant

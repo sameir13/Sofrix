@@ -13,8 +13,8 @@
 }
 
 .para {
-  font-size: clamp(1.0625rem, 0.9809rem + 0.4082vw, 1.3125rem);
-  /* font-size: 20px; */
+  font-size: clamp(1.0625rem, 0.8992rem + 0.8163vw, 1.5625rem);
+  /* font-size: 25px; */
   font-weight: 500;
   line-height: 40px;
   color: #127398;

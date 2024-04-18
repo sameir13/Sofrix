@@ -27,7 +27,7 @@ const Accounts = () => {
           <div className="  w-full md:w-1/2  flex items-center justify-center    ">
             <p className="para  text-center md:text-left md:max-w-[70%] ">
               {" "}
-              <strong className=" text-[18px] md:text-[21px]">
+              <strong >
                 Connect your brokerage accounts
               </strong>{" "}
               and get access to trading ideas, aggregated stats and discussions
