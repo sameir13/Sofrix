@@ -16,12 +16,12 @@ const SignUp = () => {
         <div className=" bg-white flex py-2  w-full md:w-[70%]  rounded-3xl ">
           <div className=" flex items-center relative">
             <img
-              src="./assets/Person/person 2.png"
+              src="./assets/person/Person 2.png"
               className=" -translate-x-20"
               alt=""
             />
             <img
-              src="./assets/Person/person 1.png"
+              src="./assets/person/Person 1.png"
               className="-translate-x-20"
               alt=""
             />
